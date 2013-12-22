@@ -1,0 +1,60 @@
+header {
+	font-family: arial narrow;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+.mainnav {
+	color: gray;
+	text-align: center;
+	text-decoration: none;
+	font: small-caps 13px arial;
+}
+
+.mainnav:link {
+	
+}
+
+.mainnav:visited {
+	
+}
+
+.mainnav:hover {
+	text-decoration: underline;
+}
+
+.mainnav:active {
+	
+}
+
+footer {
+	text-align: center;
+	font: small-caps 11px arial;
+}
+
+.footnav {
+	color: gray;
+	text-align: center;
+	text-decoration: none;
+	font: small-caps 13px arial;
+}
+
+.footnav:link {
+	
+}
+
+.footnav:visited {
+	
+}
+
+.footnav:hover {
+	text-decoration: underline;
+}
+
+.footnav:active {
+	
+}
+
+#body {
+	text-align: center;
+}
