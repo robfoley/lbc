@@ -1,14 +1,15 @@
 header {
-	font-family: arial narrow;
+	font-family: helvetica neue;
 	font-variant: small-caps;
 	text-align: center;
 }
 
 .mainnav {
-	color: gray;
+	font-family: helvetica neue;
 	text-align: center;
+	color: gray;
 	text-decoration: none;
-	font: small-caps 13px arial;
+	font-size: 13px;
 }
 
 .mainnav:link {
